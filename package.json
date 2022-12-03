@@ -3,5 +3,6 @@
   "description": "Contract Allowlist for Charged Particles",
   "author": "Firma Lux, Inc.",
   "version": "1.0.0",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "src/allowlist.ts"
 }
