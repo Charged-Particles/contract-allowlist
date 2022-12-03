@@ -1,0 +1,8 @@
+{
+  "name": "@charged-particles/contract-allowlist",
+  "description": "Contract Allowlist for Charged Particles",
+  "author": "Firma Lux, Inc.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "src/allowlist.ts"
+}
