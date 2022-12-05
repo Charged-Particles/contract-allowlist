@@ -230,6 +230,10 @@ export const allowlist: AllowList = {
 
   // Goerli
   5: {
+    ['0x894fe586f4be12cdb5d107323a2f5182161c3515'.toLowerCase()]: {
+      address: '0x894fe586f4be12cdb5d107323a2f5182161c3515'.toLowerCase(),
+      name: 'Proton B',
+    }
   },
 
   // Kovan
