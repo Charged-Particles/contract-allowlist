@@ -4,5 +4,11 @@
   "author": "Firma Lux, Inc.",
   "version": "1.0.0",
   "license": "MIT",
-  "main": "src/allowlist.ts"
+  "main": "src/allowlist.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
 }
