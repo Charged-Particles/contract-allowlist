@@ -2,12 +2,30 @@
   "name": "@charged-particles/contract-allowlist",
   "description": "Contract Allowlist for Charged Particles",
   "author": "Firma Lux, Inc.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "src/allowlist.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Charged-Particles/contract-allowlist"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "charged",
+    "particles",
+    "defi",
+    "nft",
+    "ethereum"
+  ],
+  "engines": {
+    "node": ">=12.16.1",
+    "npm": ">=6.14.4"
+  },
   "scripts": {
     "build": "tsc",
-    "publish": "yarn publish --tag latest --access public"
+    "pub": "yarn publish --tag latest"
   },
   "dependencies": {
     "typescript": "^4.9.4"
