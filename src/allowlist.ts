@@ -226,6 +226,10 @@ export const allowlist: AllowList = {
       address: '0xe6A5e67F92CC6219E9c210f2734A6175Ee4eE6D1'.toLowerCase(),
       name: 'Moda Dropcase NFT'
     },
+    ['0x92939Fc66f67017832be6b279410a59cA6A42a20'.toLowerCase()]: {
+      address: '0x92939Fc66f67017832be6b279410a59cA6A42a20'.toLowerCase(),
+      name: 'APE Domains'
+    },
   },
 
   // Goerli
