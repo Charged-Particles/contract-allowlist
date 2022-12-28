@@ -10,6 +10,15 @@ interface AllowList {
 export const allowlist: AllowList = {
   // Mainnet
   1: {
+    ['0x63174fa9680c674a5580f7d747832b2a2133ad8f'.toLowerCase()]: {
+      address: '0x63174fa9680c674a5580f7d747832b2a2133ad8f'.toLowerCase(),
+      name: 'proton'
+    },
+    ['0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8'.toLowerCase()]: {
+      address: '0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8'.toLowerCase(),
+      name: 'Rarible ERC1155'
+    },
+
     ['0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8'.toLowerCase()]: {
       address: '0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8'.toLowerCase(),
       name: 'Rarible ERC1155'
