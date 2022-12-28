@@ -14,11 +14,10 @@ export const allowlist: AllowList = {
       address: '0x63174fa9680c674a5580f7d747832b2a2133ad8f'.toLowerCase(),
       name: 'proton'
     },
-    ['0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8'.toLowerCase()]: {
-      address: '0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8'.toLowerCase(),
-      name: 'Rarible ERC1155'
+    ['0x04d572734006788B646ce35b133Bdf7160f79995'.toLowerCase()]: {
+      address: '0x04d572734006788B646ce35b133Bdf7160f79995'.toLowerCase(),
+      name: 'ProtonB'
     },
-
     ['0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8'.toLowerCase()]: {
       address: '0xB66a603f4cFe17e3D27B87a8BfCaD319856518B8'.toLowerCase(),
       name: 'Rarible ERC1155'
