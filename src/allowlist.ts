@@ -119,7 +119,7 @@ const _simpleList: Object = {
 // Export Allowlist
 //
 
-export let allowlist: AllowList;
+export let allowlist: AllowList = {};
 
 // Iterate All Chains
 Object.keys(_simpleList).forEach((chainIdStr: string): void => {
