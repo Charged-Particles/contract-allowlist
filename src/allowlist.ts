@@ -7,7 +7,7 @@ interface AllowList {
   }
 }
 
-const _simpleList: {[network: number]: {}} = {
+const _simpleList: {[network: number]: any } = {
   1: {
     '0x63174fa9680c674a5580f7d747832b2a2133ad8f': 'Proton A',
     '0x04d572734006788B646ce35b133Bdf7160f79995': 'Proton B',
