@@ -25,9 +25,16 @@
   },
   "scripts": {
     "build": "tsc",
-    "pub": "yarn publish --tag latest"
+    "pub": "yarn publish --tag latest",
+    "test": "ts-jest"
   },
   "dependencies": {
     "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.3.1",
+    "@types/jest": "^29.2.5",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.4"
   }
 }
