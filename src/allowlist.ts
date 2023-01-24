@@ -108,7 +108,7 @@ const _simpleList: {[network: number]: any } = {
   80001: {
     '0xd02cB38f5D68333219d32Ea2a08c3BCdC92753F2': 'Proton A',
     '0xd04f13d02ea469dfF7eEce1b1aE0Ca234837DB38': 'Proton B',
-    '0x56D0d2e232e73634E5E9aaAB5d1b2f2e68e062Bd': 'Proton C (Soul)',
+    '0xC5b2d04669b6B701195F90c15C560edaa3509C92': 'Proton C (Soul)',
     '0x3e3792288599A748B242F6626E276Cae43f0f688': 'Lepton 2',
     '0xbc7895fa82a2e5c575b8105f62d2e57d53b6e75c': 'External NFT Example Contract - Mumbai',
     '0x865Bd661EEFE49C4Ebd096e87720528C12959Ab9': 'Moda Dropcase NFT (DropCase)'
