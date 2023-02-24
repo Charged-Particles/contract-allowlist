@@ -14,6 +14,7 @@ const _simpleList: {[network: number]: any } = {
     '0xBb4Ddbc0E26d4E4ae838B12a832379295D5fD917': 'Proton C (Soul)',
     '0x3cd2410eaa9c2dce50af6ccab72dc93879a09c1f': 'Lepton 2',
     '0xcd2ba94e435e536dc48648eab2f4f1db257bc64c': 'Particlon: Genesis',
+    '0xc9154424B823b10579895cCBE442d41b9Abd96Ed': 'Rarible Asset Contract ERC-721',
     '0x60f80121c31a0d46b5279700f9df786054aa5ee5': 'Rarible Collection',
     '0xd07dc4262bcdbf85190c01c996b4c06a461d2430': 'Rarible - RARI',
     '0xdfe3ac769b2d8e382cb86143e0b0b497e1ed5447': 'THE PLUTO ALLIANCE',
