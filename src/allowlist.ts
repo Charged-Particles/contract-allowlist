@@ -111,7 +111,12 @@ const _simpleList: {[network: number]: any } = {
     '0x3e3792288599A748B242F6626E276Cae43f0f688': 'Lepton 2',
     '0xbc7895fa82a2e5c575b8105f62d2e57d53b6e75c': 'External NFT Example Contract - Mumbai',
     '0x865Bd661EEFE49C4Ebd096e87720528C12959Ab9': 'Moda Dropcase NFT (DropCase)'
-  }
+  },
+  1442: {
+    '0x67DD6cd2DCaa7649F52c64b90423A4CB511bBd3B': 'Proton A',
+    '0x747a1f4F30aC18406512D55b034D372A1D263284': 'Proton B',
+    '0x673e343cc63ec1fEBB1AFAD929359a7cf8D39101': 'Proton C (Soul)',
+  },
 };
 
 
