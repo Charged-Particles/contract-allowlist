@@ -2,7 +2,7 @@
   "name": "@charged-particles/contract-allowlist",
   "description": "Contract Allowlist for Charged Particles",
   "author": "Firma Lux, Inc.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "MIT",
   "main": "dist/allowlist.js",
   "repository": {
