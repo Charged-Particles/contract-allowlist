@@ -5,6 +5,7 @@
   "version": "1.0.8",
   "license": "MIT",
   "main": "dist/allowlist.js",
+  "types": "dist/allowlist.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/Charged-Particles/contract-allowlist"
