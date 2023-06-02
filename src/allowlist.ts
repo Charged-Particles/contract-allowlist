@@ -102,6 +102,7 @@ const _simpleList: {[network: number]: any } = {
     '0x96c89cc7c5d2fbfa41afa10da5917742ff35941b': 'Elder ENTS',
     '0x135de69e2c8a6f14f00dcf9c9e8d8120fbebef5a': 'HMNZone',
     '0x4bf5a99ea2f8de061f7d77ba9edd749503d945da': '.BASIN',
+    '0xF6a44012d24CA5d67ece21ea7d34886a55754E86': 'TaterDAO Land Title',
   },
 
   // Mumbai
