@@ -69,6 +69,7 @@ const _simpleList: {[network: number]: any } = {
     '0x92939Fc66f67017832be6b279410a59cA6A42a20': 'APE Domains .ape',
     '0x9bD43DCC42Ff2187fFe2101d483A08173582b82f': 'PEPE Domains .pepe',
     '0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e': 'goblintown (GOBLIN)',
+    '0x50ab244fe1477C65fDfDDF86d327D7Ea27902810': 'Tater DAO',
   },
 
   // Goerli
