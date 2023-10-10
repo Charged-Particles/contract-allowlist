@@ -69,6 +69,7 @@ const _simpleList: {[network: number]: any } = {
     '0x92939Fc66f67017832be6b279410a59cA6A42a20': 'APE Domains .ape',
     '0x9bD43DCC42Ff2187fFe2101d483A08173582b82f': 'PEPE Domains .pepe',
     '0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e': 'goblintown (GOBLIN)',
+    '0x50ab244fe1477C65fDfDDF86d327D7Ea27902810': 'Tater DAO',
   },
 
   // Goerli
@@ -114,7 +115,13 @@ const _simpleList: {[network: number]: any } = {
     '0x3e3792288599A748B242F6626E276Cae43f0f688': 'Lepton 2',
     '0xbc7895fa82a2e5c575b8105f62d2e57d53b6e75c': 'External NFT Example Contract - Mumbai',
     '0x865Bd661EEFE49C4Ebd096e87720528C12959Ab9': 'Moda Dropcase NFT (DropCase)'
-  }
+  },
+
+  // Mantle testnet
+  5001: {
+    '0x9E5Ed965810ABbF9820F83Ac39A15D5e269FBDa3': 'Proton C'
+  },
+
 };
 
 
