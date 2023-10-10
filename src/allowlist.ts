@@ -115,7 +115,13 @@ const _simpleList: {[network: number]: any } = {
     '0x3e3792288599A748B242F6626E276Cae43f0f688': 'Lepton 2',
     '0xbc7895fa82a2e5c575b8105f62d2e57d53b6e75c': 'External NFT Example Contract - Mumbai',
     '0x865Bd661EEFE49C4Ebd096e87720528C12959Ab9': 'Moda Dropcase NFT (DropCase)'
-  }
+  },
+
+  // Mantle testnet
+  5001: {
+    '0x9E5Ed965810ABbF9820F83Ac39A15D5e269FBDa3': 'Proton C'
+  },
+
 };
 
 
