@@ -64,7 +64,8 @@ var _simpleList = {
         '0x9bD43DCC42Ff2187fFe2101d483A08173582b82f': 'PEPE Domains .pepe',
         '0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e': 'goblintown (GOBLIN)',
         '0x50ab244fe1477C65fDfDDF86d327D7Ea27902810': 'Tater DAO',
-        '0xA5685Ecc8813831c23Da4079CFcB824F38Df3462': 'WoofWorkers'
+        '0xA5685Ecc8813831c23Da4079CFcB824F38Df3462': 'WoofWorkers',
+        '0x63667d6ffccd573ecbae46c3c6a56a722f78811b': 'Rarible: Drink up Baby',
     },
     // Goerli
     5: {
