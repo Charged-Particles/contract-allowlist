@@ -130,6 +130,7 @@ const _simpleList: {[network: number]: any } = {
     '0x1d2b17c6e5d0d617f69c2c017dc19eb5fa85cb3c': 'OmniKingdoms',
     '0x03ddc4b60d6bbf399a8397d73462060fdfb83476': 'Pandra: CodeConqueror',
     '0x5025fa31f72950295875a209e5e05f29b68b8457': 'Path2Pro Collection (Mobile Edition)',
+    '0x76a5df1c6f53a4b80c8c8177edf52fbbc368e825': 'Proton C'
   },
 
   // Mantle testnet
