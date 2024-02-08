@@ -66,6 +66,7 @@ var _simpleList = {
         '0x50ab244fe1477C65fDfDDF86d327D7Ea27902810': 'Tater DAO',
         '0xA5685Ecc8813831c23Da4079CFcB824F38Df3462': 'WoofWorkers',
         '0x63667d6ffccd573ecbae46c3c6a56a722f78811b': 'Rarible: Drink up Baby',
+        '0x9340204616750cb61e56437befc95172c6ff6606': 'FarCats',
     },
     // Goerli
     5: {
