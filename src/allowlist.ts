@@ -140,7 +140,8 @@ const _simpleList: {[network: number]: any } = {
   },
 
   11155111: {
-    '0x519a0358DB8c0cF6A4A03Dd133b274520283a159': 'Proton C'
+    '0x519a0358DB8c0cF6A4A03Dd133b274520283a159': 'Proton C',
+    '0x8fBfb1B27feBd9ec4879974EDfaDCc067DDB26fa': 'Wormhole origin NFT'
   }
 
 };

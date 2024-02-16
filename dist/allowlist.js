@@ -127,7 +127,8 @@ var _simpleList = {
         '0x9E5Ed965810ABbF9820F83Ac39A15D5e269FBDa3': 'Proton C'
     },
     11155111: {
-        '0x519a0358DB8c0cF6A4A03Dd133b274520283a159': 'Proton C'
+        '0x519a0358DB8c0cF6A4A03Dd133b274520283a159': 'Proton C',
+        '0x8fBfb1B27feBd9ec4879974EDfaDCc067DDB26fa': 'Wormhole origin NFT'
     }
 };
 //
